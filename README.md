@@ -1,4 +1,5 @@
 # Operationalize-a-Machine-Learning-Microservice-API
+
 In this project, the application the skills acquired in this course to operationalize a Machine Learning Microservice API at Udacity. 
 
 [![CircleCI](https://circleci.com/gh/NomanAbdullah/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/NomanAbdullah/Operationalize-a-Machine-Learning-Microservice-API)
@@ -18,7 +19,7 @@ The project goal is to operationalize this working, machine learning microservic
 * Deploy a container using Kubernetes and make a prediction
 * Upload a complete Github repo with CircleCI to indicate that the code has been tested
 
----
+----
 
 ## Setting up the Environment
 
